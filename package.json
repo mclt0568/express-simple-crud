@@ -1,0 +1,19 @@
+{
+  "name": "express-simple-crud",
+  "version": "1.0.0",
+  "description": "A simple crud backend provides a testing environment for any front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mclt0568/express-simple-crud.git"
+  },
+  "author": "Frankium",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mclt0568/express-simple-crud/issues"
+  },
+  "homepage": "https://github.com/mclt0568/express-simple-crud#readme"
+}
